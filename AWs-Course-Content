@@ -1,0 +1,69 @@
+Amazon We Services AWS: AWS Fundamentals
+Introducton and Overview
+.Security in AWS
+  - Introduction to AWS Identity and Access Management
+  - Creating a User and Group
+  - Creating Access Keys
+  - Creating and Attaching Policies
+  - Creating and understanding roles
+  - Federated Users
+  - Managing an MFA Device
+  - Applying Resource Policy
+  - Use Case: Using Roles for Cross Account Access
+.Networking in AWS
+  - Introduction to Amazon Virtual Private Cloud (VPC)
+  - Creating a VPC
+  - Adding Subnets
+  - Public, Private, and Hybrid Subnets 
+  - Network Access Control Lists (NACL)
+  - Security Groups
+  - VPC Peering and senario
+  - VPN Access
+  - AWS Direct Connect
+.Computing in AWS
+  - Introduction to Amazon Elastic Compute Cloud (EC2)
+  - Amazon Machine Image (AMI)
+  - Launching a Linux/Windows Instances
+  - Key Pairs
+  - Bootstrapping with Userdata
+  - Stopping and Terminating Instances
+  - Billing Options
+  
+  - Amazon EC2 Container Service - Run and Manage Docker Containers
+  - AWS Lambda - Run Code in Response to Events
+  - Amazon EC2 Container Registry - Store and Retrieve Docker Images
+  - Amazon Lightsail - Launch and Manage Virtual Private Servers
+  - AWS Batch - Run Batch Jobs at Any Scale
+  - AWS Elastic Beanstalk - Run and Manage Web Apps
+  - Auto Scaling - Automatic Elasticity
+.Storage in AWS
+  - Introduction to Amazon Simple Storage Service (S3)
+  - Creating Buckets and Objects with resource security Policies
+  - Amazon Glacier
+  - Adding Lifecycle Rules
+  - Instance Store Volumes
+  - Introduction to Amazon Elastic Block Store (EBS)
+  - Amazon EBS Volume Types and Performance and mounting with linux Instance
+  - Taking snapshots
+  - Amazon Elastic File System
+.Databases in AWS
+  - Introduction to Amazon Relational Database Service (RDS)
+  - Introduction to Amazon DynamoDB and Data Models in Amazon DynamoDB
+  - Introduction to Amazon ElastiCache
+  - Introduction to Amazon Redshift
+.AWS Management Tools
+  - Monitoring with Amazon Cloudwatch
+  - Log Collection with Amazon Cloudwatch Logs
+  - Infrastructure as Code with AWS Cloudformation
+  - Launching an Application on AWS Elastic Beanstalk
+.Mobile and Application Services
+  - Amazon Simple Queue Service (SQS)
+  - Amazon Simple Notification Service (SNS)
+  - Amazon Simple Email Services (SES)
+  - Amazon Cognito
+. High Availability and Fault Tolerance
+  - Introduction to Elastic Load Balancing (ELB)
+  - Listeners and SSL Certificates
+  - Listeners and SSL Certificates
+
+. AWS Cli 
