@@ -1,0 +1,51 @@
+DOCKER COURSE CONTENT
+---------------------
+
+. Docker introduction
+  - Virtual world vs. the container world
+  - What should you put in a container
+  - What is a microservice
+  - What is the Docker Engine
+. Docker Images
+  - Docker image versus Docker container
+  - How to pull Docker images
+  - What is a Dcoker image layer
+  - How to remove Docker images
+  - Web development benefits of using Docker images
+. How to Create a Docker Image
+  - What is Dockerfile
+  - Dockerfile structure
+  - Creating your first Dockerfile
+  - Building your first Dockerfile
+  - Getting your image history
+  - Inspect your image
+  - Dockerfile good practice
+  - Dockerfile copying and adding 
+  - Dockerfile environmental variables
+  - How to pass variables into the build 
+. Docker Image Management
+  - How to quickly remove unused images
+  - How to tag your images
+  - How to login to a Docker registry
+  - How to push a Docker image
+  - How to pull images from the Docker Hub
+  - How to update the remote images
+. Managing Docker Containers
+  - How to create a container from an image
+  - How to create a container from an inbuild image
+  - How to name a container
+  - How to stop/start/restart a container
+  - How to run a command against a container
+  - How to run the web server
+  - General security good practices
+. How to Store Data
+  - What are the storage options
+  - How to make a bind mount
+  - How to create a Docker volume
+  - How to copy files into a container
+  - How to list/remove/share a volume amongst containers
+. Docker Compose
+  - Docker compose structure
+  - Docker networking
+  - Docker expose ports
+. Docker Swarm
