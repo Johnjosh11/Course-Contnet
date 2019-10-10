@@ -1,0 +1,38 @@
+. Kunernetes Basics
+  - Kubernetes Object Creation and Management
+  - Understanding Pods
+  - Understanding Pods
+  - Demo: Creating a Pod and Inspecting it
+. Kubernetes Configuration
+  - Centralized Configuration Data
+  - Creating and Mounting ConfigMaps
+  - Demo: Configuring a Pod to Use a ConfigMap
+  - Creating and Mounting Secrets
+  - Demo: Configuring a Pod to Use a Secret
+  - Understanding Security Contexts
+  - Declaring Resource Boundaries
+  - Demo: Defining a Pod’s Resource Requirements
+  - Declaring Service Accounts
+  - Demo: Using a Service Account
+. Multi-Container Pods
+  - Defining and Running Multiple Containers in a Pod
+  - Understanding Init Containers
+  - Understanding the Below Pattern
+      > Sidecar
+      > Adapter
+      > Ambassador
+  - Understanding and Defining Readiness Probes
+  - Debugging Existing Pods
+  - Fixing a Misconfigured Pod
+. Pod Design
+  - Defining and Querying Labels and Annotations
+  - Understanding and Creating Deployments
+  - Performing Rolling Updates and Scaling a Deployment
+  - Creating a Scheduled Container Operation
+. Services and Networking
+  - Routing Traffic to Pods from Inside and Outside of a Cluster
+  - Understanding and Creating Network Policies
+  - Restricting Access to and from a Pod
+. Volume Persistence
+  - Understanding and Creating Volumes
+  - Understanding and Creating PersistentVolumes
